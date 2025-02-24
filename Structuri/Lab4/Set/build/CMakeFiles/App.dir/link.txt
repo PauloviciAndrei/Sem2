@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -g -Wall CMakeFiles/App.dir/App.cpp.o CMakeFiles/App.dir/Set.cpp.o CMakeFiles/App.dir/SetIterator.cpp.o CMakeFiles/App.dir/ShortTest.cpp.o CMakeFiles/App.dir/ExtendedTest.cpp.o -o App

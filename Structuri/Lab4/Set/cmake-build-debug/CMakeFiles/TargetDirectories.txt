@@ -1,0 +1,3 @@
+D:/Info/Structuri/Lab4/Set/cmake-build-debug/CMakeFiles/App.dir
+D:/Info/Structuri/Lab4/Set/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Info/Structuri/Lab4/Set/cmake-build-debug/CMakeFiles/rebuild_cache.dir

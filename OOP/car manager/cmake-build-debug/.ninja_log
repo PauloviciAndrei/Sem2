@@ -1,0 +1,22 @@
+# ninja log v5
+754	782	1716903736713118073	car_manager	7fec8e1bc351bf7e
+24	856	1716903540153870849	CMakeFiles/car_manager.dir/main.cpp.o	78e9aeacef46171c
+0	576	1716983474398108067	build.ninja	6def37fe0f1acefb
+58	88	1716897266314688212	CMakeFiles/car_manager.dir/car_manager_autogen/mocs_compilation.cpp.o	17f7e6eec862df4a
+25	436	1716903736365611173	CMakeFiles/car_manager.dir/service.cpp.o	5648ae289012b7e8
+3	25	1716903735957930827	car_manager_autogen/timestamp	91f5c9629fab27c1
+94	3375	1716901712272784698	CMakeFiles/car_manager.dir/repository.cpp.o	9a77cfb1da0576f6
+25	754	1716903736683167811	CMakeFiles/car_manager.dir/gui.cpp.o	54945c60c05edae6
+3	25	1716903735957930827	car_manager_autogen/mocs_compilation.cpp	91f5c9629fab27c1
+36	611	1716900514943779136	CMakeFiles/car_manager.dir/domain.cpp.o	c60f67165051d75d
+4	64	1716983480907642773	car_manager_autogen/timestamp	542ffcc0e0716f14
+4	64	1716983480907642773	car_manager_autogen/mocs_compilation.cpp	542ffcc0e0716f14
+4	64	1716983480907642773	/Users/robert/Documents/UBB/OOP/for test/car manager/cmake-build-debug/car_manager_autogen/timestamp	542ffcc0e0716f14
+4	64	1716983480907642773	/Users/robert/Documents/UBB/OOP/for test/car manager/cmake-build-debug/car_manager_autogen/mocs_compilation.cpp	542ffcc0e0716f14
+64	98	1716983480939457774	CMakeFiles/car_manager.dir/car_manager_autogen/mocs_compilation.cpp.o	4581e0181626c6c2
+66	803	1716983481630902055	CMakeFiles/car_manager.dir/domain.cpp.o	a2420da95e7c8609
+66	1336	1716983482170953387	CMakeFiles/car_manager.dir/repository.cpp.o	114cba60808ae8c3
+66	1338	1716983482173810989	CMakeFiles/car_manager.dir/service.cpp.o	2b65dcf768e35bcf
+64	1911	1716983482748634881	CMakeFiles/car_manager.dir/main.cpp.o	8c2b651518c26e5e
+67	1940	1716983482777271944	CMakeFiles/car_manager.dir/gui.cpp.o	2d22d562306e7ad5
+1940	1988	1716983482828372737	car_manager	7fec8e1bc351bf7e

@@ -1,0 +1,3 @@
+D:/Info/Structuri/Lab1/SortedMap/cmake-build-debug/CMakeFiles/SortedMap.dir
+D:/Info/Structuri/Lab1/SortedMap/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Info/Structuri/Lab1/SortedMap/cmake-build-debug/CMakeFiles/rebuild_cache.dir

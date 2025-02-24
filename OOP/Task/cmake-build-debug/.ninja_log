@@ -1,0 +1,17 @@
+# ninja log v5
+22	164	7406658624916738	Task_autogen/timestamp	f235fc6f44007cdf
+22	164	7406658624916738	Task_autogen/mocs_compilation.cpp	f235fc6f44007cdf
+3620	4529	7406658662817115	Task.exe	e749bae8c066cc86
+189	2665	7405278543659123	CMakeFiles/Task.dir/Repository.cpp.obj	9f550ed1c7024802
+280	505	7405166622042652	CMakeFiles/Task.dir/Task_autogen/mocs_compilation.cpp.obj	6f18f916954eb9ef
+172	3455	7406658657816763	CMakeFiles/Task.dir/main.cpp.obj	b380e460c540dcbc
+177	3620	7406658659466753	CMakeFiles/Task.dir/Window.cpp.obj	8b300705b76b042
+9	1659	7621107886440993	Task_autogen/timestamp	b62d9e2bfb58838c
+9	1659	7621107886440993	Task_autogen/mocs_compilation.cpp	b62d9e2bfb58838c
+9	1659	7621107886440993	D:/Info/Sem2/OOP/Task/cmake-build-debug/Task_autogen/timestamp	b62d9e2bfb58838c
+9	1659	7621107886440993	D:/Info/Sem2/OOP/Task/cmake-build-debug/Task_autogen/mocs_compilation.cpp	b62d9e2bfb58838c
+1688	1971	7621107890471004	CMakeFiles/Task.dir/Task_autogen/mocs_compilation.cpp.obj	292a2542ef80c98
+1693	3731	7621107907940994	CMakeFiles/Task.dir/Repository.cpp.obj	e8ad6f72fadf10e
+1971	6911	7621107940220970	CMakeFiles/Task.dir/main.cpp.obj	f287b4bcfe24aef9
+1700	6993	7621107941230985	CMakeFiles/Task.dir/Window.cpp.obj	924d2cf3c392b7bb
+6994	7669	7621107945540971	Task.exe	5cd57dd9c4fbb507

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Programmers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Programmers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Programmers-Debug-c65164131d59c095a198.json",
+					"name" : "Programmers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Programmers_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Programmers_autogen-Debug-0f4246437a7d3062ea82.json",
+					"name" : "Programmers_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Programmers_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Programmers_autogen_timestamp_deps-Debug-71633c5ad9fbef791454.json",
+					"name" : "Programmers_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Info/Sem2/OOP/Programmers/cmake-build-debug",
+		"source" : "D:/Info/Sem2/OOP/Programmers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

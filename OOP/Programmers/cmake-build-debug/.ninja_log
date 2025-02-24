@@ -1,0 +1,17 @@
+# ninja log v5
+8	138	7405110582137530	Programmers_autogen/timestamp	89f697d0f41fac67
+8	138	7405110582137530	Programmers_autogen/mocs_compilation.cpp	89f697d0f41fac67
+358	432	7405077230283373	CMakeFiles/Programmers.dir/Programmers_autogen/mocs_compilation.cpp.obj	bae69cca7adac297
+304	3587	7405086543082352	CMakeFiles/Programmers.dir/Repository.cpp.obj	98900f582900551c
+148	3785	7405110618557739	CMakeFiles/Programmers.dir/main.cpp.obj	c6bbc60903725274
+3915	4455	7405110623137719	Programmers.exe	29e76b2a352209f4
+152	3914	7405110619867743	CMakeFiles/Programmers.dir/Window.cpp.obj	a0637debf7f1930c
+26	1048	7621105167410313	Programmers_autogen/timestamp	f14733e2c419fc95
+26	1048	7621105167410313	Programmers_autogen/mocs_compilation.cpp	f14733e2c419fc95
+26	1048	7621105167410313	D:/Info/Sem2/OOP/Programmers/cmake-build-debug/Programmers_autogen/timestamp	f14733e2c419fc95
+26	1048	7621105167410313	D:/Info/Sem2/OOP/Programmers/cmake-build-debug/Programmers_autogen/mocs_compilation.cpp	f14733e2c419fc95
+1049	1534	7621105171650316	CMakeFiles/Programmers.dir/Programmers_autogen/mocs_compilation.cpp.obj	e0184b34a12b6a65
+1534	3180	7621105188820306	CMakeFiles/Programmers.dir/Repository.cpp.obj	114f28737a71605b
+1054	5593	7621105212940302	CMakeFiles/Programmers.dir/main.cpp.obj	3e4d4d604cea10be
+1059	5813	7621105215150318	CMakeFiles/Programmers.dir/Window.cpp.obj	9fb22f1e6a9ba239
+5813	6559	7621105219950287	Programmers.exe	54d8e1ad9256721f

@@ -1,0 +1,3 @@
+/Users/mihaicrisan/Developer/UBB/Semester2/DSA/Interfaces/Set/build/CMakeFiles/App.dir
+/Users/mihaicrisan/Developer/UBB/Semester2/DSA/Interfaces/Set/build/CMakeFiles/edit_cache.dir
+/Users/mihaicrisan/Developer/UBB/Semester2/DSA/Interfaces/Set/build/CMakeFiles/rebuild_cache.dir
