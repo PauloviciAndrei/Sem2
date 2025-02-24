@@ -1,5 +1,0 @@
-D:/Info/Sem2/OOP/Programmers/cmake-build-debug/CMakeFiles/Programmers.dir
-D:/Info/Sem2/OOP/Programmers/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Info/Sem2/OOP/Programmers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/Info/Sem2/OOP/Programmers/cmake-build-debug/CMakeFiles/Programmers_autogen_timestamp_deps.dir
-D:/Info/Sem2/OOP/Programmers/cmake-build-debug/CMakeFiles/Programmers_autogen.dir

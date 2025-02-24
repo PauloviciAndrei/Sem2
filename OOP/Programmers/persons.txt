@@ -1,5 +1,0 @@
-Mircea|Programmer
-Ionut|Tester
-Andrei|Programmer
-Aura|Programmer
-Cristi|Tester
