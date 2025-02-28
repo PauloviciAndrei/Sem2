@@ -20,7 +20,11 @@ add_executable(Task main.cpp
         Repository.cpp
         Observer.h
         Subject.h
-        Window.cpp)
+        Window.cpp
+        Task.cpp
+        Service.h
+        Service.cpp
+)
 
 target_link_libraries(Task
         Qt::Core

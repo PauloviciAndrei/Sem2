@@ -3,15 +3,20 @@
 #include <QPushButton>
 #include "Window.h"
 #include "Repository.h"
+#include "Service.h"
 
 int main(int argc, char *argv[]) {
     QApplication a(argc, argv);
 
     Repository repo;
+    Service service(repo);
+    std::vector<Window*> windows;
 
-    for (auto &person : repo.getUsers())
+    for (auto person : service.getProgrammers())
     {
-        auto *window = new Window(repo, person);// Pass Repository by reference
+        cout << "AICI";
+        auto *window = new Window(service, person);// Pass Repository by reference
+        windows.push_back(window);
         window->show();
     }
     return QApplication::exec();

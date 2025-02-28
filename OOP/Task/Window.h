@@ -8,29 +8,30 @@
 #include "Repository.h"
 #include "Programmer.h"
 #include "Observer.h"
+#include "Service.h"
 #include <QCheckBox>
 
 class Window : public QWidget, public Observer {
 private:
-    Repository& repo;  // Change to reference
+    Service& service;
     Programmer user;
     QListWidget *tasks;
     QPushButton *addTaskBt,  *removeTaskBt, *startTaskBt, *finishTaskBt;
     QLineEdit *descriptionInput;
-    QCheckBox *showOnlyMyPatients;
+    QCheckBox *showOnlyMyTasks;
 
 public:
-    Window(Repository& repo, Programmer &user, QWidget *parent = Q_NULLPTR);  // Pass Repository by reference
+    Window(Service& service, const Programmer &user, QWidget *parent = Q_NULLPTR);
+
     ~Window() override = default;
     void update() const override;
 
 public slots:
-    void removeIssue();
-    void addIssue();
-    void resolveIssue();
-    void updateResolveButton();
+    void removeTask();
+    void addTask();
     void startTask();
     void finishTask();
+    void updateTasksList();
 };
 
 #endif //PROGRAMMERS_WINDOW_H

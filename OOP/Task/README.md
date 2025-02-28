@@ -1,30 +1,19 @@
-# 🏗️ Task Management System (C++ & Qt)
+# Task Management Application
 
-This project is a **Task Management System** built using **C++** and **Qt** for a GUI-based task-tracking application. The program allows multiple **programmers** to manage tasks, update statuses, and track assignments in real-time.
+## 📌 Overview
+This is a **Task Management Application** built using **C++ and Qt**. The application allows programmers to manage tasks, update their statuses, and keep track of assigned work. The project follows the **Observer design pattern** to ensure that UI elements automatically update when changes occur.
 
----
+## 🔧 Features
+- **View Tasks**: Displays a list of tasks.
+- **Add Tasks**: Programmers can add new tasks with a description and status.
+- **Remove Tasks**: Tasks can be removed from the list.
+- **Start Tasks**: Users can mark tasks as "In Progress."
+- **Finish Tasks**: Users can mark tasks as "Completed."
+- **Observer Pattern Implementation**: UI updates automatically when tasks change.
 
-## 🚀 Features
-
-✅ **Task Management**
-- Add, remove, and modify tasks.
-- Update task statuses (`open`, `in progress`, `closed`).
-
-✅ **Multi-User Support**
-- Handles multiple programmers.
-- Each programmer has their own instance of the window.
-
-✅ **Observer Pattern**
-- Implements the **Observer pattern** for real-time task updates.
-
-✅ **Heap Memory & File Management**
-- Reads and writes **tasks** and **programmers** from text files.
-- Uses heap-allocated objects for dynamic task storage.
-
-✅ **GUI (Qt Framework)**
-- Built with **Qt** for a modern graphical interface.
-- Uses `QListWidget`, `QPushButton`, `QLineEdit`, and `QCheckBox` for interaction.
-
----
+## 🏗 Technologies Used
+- **C++** (Core logic and backend)
+- **Qt** (GUI framework for the frontend)
+- **CMake** (Build system)
 
 

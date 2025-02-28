@@ -15,11 +15,17 @@ private:
 
 public:
     Programmer(const string &name, const int &id) : name{name}, id{id} {};
+
     string getName() const {
         return name;
     }
+
     int getId() const {
         return id;
+    }
+
+    string toString() const {
+        return name + " | " + to_string(id);
     }
 };
 

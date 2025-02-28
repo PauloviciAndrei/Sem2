@@ -13,34 +13,43 @@
 #include <fstream>
 #include <sstream>
 #include <algorithm>
+#include <iostream>
+#include <unordered_map>
 
 class Repository : public Subject {
 private:
     vector<Programmer> programmers;
     vector<Task> tasks;
-    string usersFile, issuesFile;
+    string usersFile, tasksFile;
+    unordered_map<int, string> programmerNames;
 
 public:
     Repository() {
-        usersFile = "D:\\Info\\OOP\\Task\\Programmers.txt";
-        issuesFile = "D:\\Info\\OOP\\Task\\Tasks.txt";
+
+        usersFile = "D:\\Info\\Sem2\\OOP\\Task\\Programmers.txt";
+        tasksFile = "D:\\Info\\Sem2\\OOP\\Task\\Tasks.txt";
         load_repo();
     }
 
+
     void load_repo();
-    vector<Task> getTasks() const {
+
+    const vector<Task>& getTasks() const {
         return tasks;
     }
-    vector<Programmer> getUsers() const {
+    const vector<Programmer>& getProgrammers() const {
         return programmers;
     }
     void removeTask(int row);
-    bool checkIfIssueExists(const string &description);
+    bool checkIfTaskExists(const string &description);
     void addTask(const string &description, int status, int id
                   );
     void startTask(int pos, int id);
     void finishTask(int pos);
+    string getProgrammerNameById(int id);
 };
 
 
 #endif //TASK_REPOSITORY_H
+
+
